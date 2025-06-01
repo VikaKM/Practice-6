@@ -435,46 +435,46 @@ button {
   border-top: 1px solid #D9FFF5; }
 
 .burger {
-  background-image: url("/src/scss/img/burger.svg"); }
+  background-image: url(./static/burger.svg); }
 
 .repair-img {
-  background-image: url("/src/scss/img/repair.svg"); }
+  background-image: url(./static/repair.svg); }
 
 .checkstatus {
-  background-image: url("/src/scss/img/checkstatus.svg"); }
+  background-image: url(./static/checkstatus.svg); }
 
 .call {
-  background-image: url("/src/scss/img/call.svg"); }
+  background-image: url(./static/call.svg); }
 
 .chat {
-  background-image: url("/src/scss/img/chat.svg"); }
+  background-image: url(./static/chat.svg); }
 
 .profile {
-  background-image: url("/src/scss/img/profile.svg"); }
+  background-image: url(./static/profile.svg); }
 
 .acer {
-  background-image: url(/src/scss/img/Acer.svg); }
+  background-image: url(./static/Acer.svg); }
 
 .lenovo {
-  background-image: url(/src/scss/img/Lenovo.svg); }
+  background-image: url(./static/Lenovo.svg); }
 
 .apple {
-  background-image: url(/src/scss/img/Apple.svg); }
+  background-image: url(./static/Apple.svg); }
 
 .bosch {
-  background-image: url(/src/scss/img/Bosch.svg); }
+  background-image: url(./static/Bosch.svg); }
 
 .hp {
-  background-image: url(/src/scss/img/Hp.svg); }
+  background-image: url(./static/Hp.svg); }
 
 .sony {
-  background-image: url(/src/scss/img/Sony.svg); }
+  background-image: url(./static/Sony.svg); }
 
 .sumsung {
-  background-image: url(/src/scss/img/Sumsung.svg); }
+  background-image: url(./static/Sumsung.svg); }
 
 .viewsonic {
-  background-image: url(/src/scss/img/ViewSonic.svg); }
+  background-image: url(./static/ViewSonic.svg); }
 
 .header__services, .section-title__actions {
   display: none; }
