@@ -418,9 +418,9 @@ button {
     opacity: 25%;
     transition: opacity 0.6s ease-in-out; }
   .icon__button--no-burger {
-    background-image: url("/src/scss/img/no-burger.svg"); }
+    background-image: url("./img/no-burger.svg"); }
   .icon__button--search {
-    background-image: url("/src/scss/img/search.svg"); }
+    background-image: url("./img/search.svg"); }
 
 .block__title {
   color: #7E7E82;
